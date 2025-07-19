@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "7606251651:AAHJ9oTU6JK3eY8btWGj47RNFrG5pKl_V78"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -23,7 +23,7 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://nikhilnishankar:Nikhil@18@cluster0.cnumtb3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
@@ -31,7 +31,7 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "079f252d4247dd595fd4b86d9ca9dc27"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1002442842375"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
